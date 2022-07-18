@@ -1,1 +1,1 @@
-# **Data Analysis** Web App using **Streamlit**
+# Streamlit App: <bold>Data Analysis</bold>
